@@ -1,3 +1,5 @@
+# Machine Learning Assignments
+
 This repository contains three programming assignments of the course COL774 Machine Learning. Refer to `assignment.pdf` for the problem statement and `report.pdf` for the analysis in each respective folder.
 
 The topics are:
